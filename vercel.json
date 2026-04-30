@@ -1,0 +1,9 @@
+{
+  "name": "china-travel-guide",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "public": true
+}
